@@ -20,6 +20,28 @@ public class UniqueNumberFinder {
                 System.out.println("unique number is " + numArray[i]);
             }
         }
+
+
+//        int unique=0;
+//        int temp;
+//        for(int i=0;i<numArray.length;i++) {
+//            for(int j=i+1;j<numArray.length;j++) {
+//                if (numArray[i]>numArray[j]) {
+//                    temp = numArray[i];
+//                    numArray[i] = numArray[j];
+//                    numArray[j] = temp;
+//                }
+//            }
+//        }
+//        System.out.println(Arrays.toString(numArray));
+//        for(int i=0; i< numArray.length-1;i=i+2){
+//            if(numArray[i] == numArray[i+1])
+//                continue;
+//            else
+//                unique=numArray[i];
+//
+//        }
+//        System.out.println(unique);
     }
 
 
