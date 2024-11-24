@@ -25,7 +25,7 @@ public class MinMaxSum {
                 min = numbers[i];
             }
         }
-        System.out.println("min= " + min + "max = "+max);
+        System.out.println("min = " + min + " max = "+max);
         minMaxSum.put(sum-min,sum-max);
         return minMaxSum;
     }
