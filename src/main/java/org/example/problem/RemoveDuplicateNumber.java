@@ -1,6 +1,5 @@
-package org.example;
+package org.example.problem;
 
-import javax.swing.*;
 import java.util.*;
 
 public class RemoveDuplicateNumber {

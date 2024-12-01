@@ -1,4 +1,4 @@
-package org.example;
+package org.example.problem;
 
 public class AbsoluteDiagonalSum {
     public static void main(String[] args) {

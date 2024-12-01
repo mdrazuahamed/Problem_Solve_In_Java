@@ -1,4 +1,4 @@
-package org.example;
+package org.example.problem;
 public class EvenFibonacciSum {
     public static void main(String[] args) {
         EvenFibonacciSum evenFibonacciSum = new EvenFibonacciSum();

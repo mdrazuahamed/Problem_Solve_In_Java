@@ -1,4 +1,4 @@
-package org.example;
+package org.example.problem;
 
 public class MultipleOfThreeOrFive {
     public static void main(String[] args) {
