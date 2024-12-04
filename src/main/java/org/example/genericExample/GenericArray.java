@@ -1,4 +1,4 @@
-package org.example;
+package org.example.genericExample;
 
 public class GenericArray<T> {
     T[] values =(T[]) new Object[10];

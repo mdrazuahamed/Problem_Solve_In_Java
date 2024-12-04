@@ -1,4 +1,4 @@
-package org.example;
+package org.example.lambdaExample;
 
 public class LambdaUse {
     public void callLambda(MyLambda ml) {

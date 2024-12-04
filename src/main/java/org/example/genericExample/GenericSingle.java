@@ -1,4 +1,4 @@
-package org.example;
+package org.example.genericExample;
 
 public class GenericSingle<T> {
     private T obj;

@@ -1,4 +1,4 @@
-package org.example;
+package org.example.genericExample;
 
 public class GenericArrayForAbstract<T extends InterfaceForGeneric> {
     T array[] = (T[]) new Object[10];

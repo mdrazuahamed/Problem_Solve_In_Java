@@ -1,4 +1,4 @@
-package org.example;
+package org.example.genericExample;
 
 public class GenericMain {
     public static void main(String[] args) {

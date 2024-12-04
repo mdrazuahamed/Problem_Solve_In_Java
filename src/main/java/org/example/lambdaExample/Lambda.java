@@ -1,4 +1,4 @@
-package org.example;
+package org.example.lambdaExample;
 public class Lambda {
 
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
 package org.example.problem;
 
-import org.example.GenericArray;
-import org.example.GenericSingle;
+import org.example.genericExample.GenericArray;
+import org.example.genericExample.GenericSingle;
 import org.example.Student;
 
 public class GenericTest {

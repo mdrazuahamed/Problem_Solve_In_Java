@@ -1,4 +1,4 @@
-package org.example;
+package org.example.genericExample;
 public class GeneralizationExample {
     public static void main(String[] args) {
         Object obj[] = new Object[3];

@@ -1,4 +1,4 @@
-package org.example;
+package org.example.lambdaExample;
 
 // FunctionalInterface can contain only one abstract method
 @FunctionalInterface

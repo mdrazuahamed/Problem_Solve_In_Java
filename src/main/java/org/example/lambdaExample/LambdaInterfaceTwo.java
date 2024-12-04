@@ -1,4 +1,4 @@
-package org.example;
+package org.example.lambdaExample;
 
 @FunctionalInterface
 public interface LambdaInterfaceTwo {
